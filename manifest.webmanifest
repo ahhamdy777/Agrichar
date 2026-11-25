@@ -1,0 +1,25 @@
+{
+  "name": "Agrichar · أجريشار",
+  "short_name": "Agrichar",
+  "description": "Agrichar – biochar, wood vinegar and plant tar made from crop residues in Abu Hommos, Beheira, Egypt.",
+  "id": "/agrichar/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "background_color": "#FFFFFF",
+  "theme_color": "#F6C21C",
+  "lang": "en",
+  "dir": "auto",
+  "categories": ["shopping", "business"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Products · المنتجات", "url": "./index.html#products" },
+    { "name": "Prices · الأسعار", "url": "./index.html#prices" },
+    { "name": "Contact · تواصل", "url": "./index.html#contact" }
+  ]
+}
